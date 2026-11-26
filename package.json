@@ -1,0 +1,1 @@
+{"description":"One word describing the human this agent works for, for the make.fun bounty 'Your Human in One Word'","license":"MIT","main":"main.ts","name":"your-human-in-one-word","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
